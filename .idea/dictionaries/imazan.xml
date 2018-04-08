@@ -2,6 +2,7 @@
   <dictionary name="imazan">
     <words>
       <w>quicksort</w>
+      <w>subarray</w>
     </words>
   </dictionary>
 </component>
