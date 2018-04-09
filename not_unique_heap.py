@@ -1,8 +1,5 @@
 def get_parent(index):
-    if index > 0:
-        return int((index - 1) / 2)
-    elif index == 0:
-        return 0
+    return (index - 1) // 2 if index > 0 else 0
 
 
 def insert_value(heap, value):

@@ -3,11 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="257fcf74-ef63-4d81-bff5-9145c171137a" name="Default" comment="solve E">
       <change afterPath="$PROJECT_DIR$/metal_chain.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/imazan.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/imazan.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/not_unique_heap.py" beforeDir="false" afterPath="$PROJECT_DIR$/not_unique_heap.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorting_of_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/sorting_of_words.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,24 +21,27 @@
     <SUITE FILE_PATH="coverage/assigment_2$not_unique_heap.coverage" NAME="not_unique_heap Coverage Results" MODIFIED="1523198769429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/assigment_2$tail_recursion.coverage" NAME="tail_recursion Coverage Results" MODIFIED="1523132593728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/assigment_2$sorting_of_characters.coverage" NAME="sorting_of_characters Coverage Results" MODIFIED="1523129167348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/assigment_2$metal_chain.coverage" NAME="metal_chain Coverage Results" MODIFIED="1523205889372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/assigment_2$metal_chain.coverage" NAME="metal_chain Coverage Results" MODIFIED="1523225995882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sorting_of_words.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sorting_of_words.py">
+      <file leaf-file-name="metal_chain.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/metal_chain.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+            <state>
+              <caret column="11" selection-start-column="11" selection-end-column="11" />
+              <folding>
+                <marker date="1523237798575" expanded="true" signature="58:61" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="metal_chain.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/metal_chain.py">
+      <file leaf-file-name="not_unique_heap.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/not_unique_heap.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="28" column="48" lean-forward="true" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+            <state relative-caret-position="90">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -47,8 +49,8 @@
       <file leaf-file-name="input.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="27" selection-start-column="27" selection-end-column="27" />
+            <state relative-caret-position="18">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -76,11 +78,11 @@
         <option value="$PROJECT_DIR$/output.txt" />
         <option value="$PROJECT_DIR$/sorting_of_characters.py" />
         <option value="$PROJECT_DIR$/tail_recursion.py" />
-        <option value="$PROJECT_DIR$/not_unique_heap.py" />
         <option value="$PROJECT_DIR$/pin_code.py" />
-        <option value="$PROJECT_DIR$/metal_chain.py" />
-        <option value="$PROJECT_DIR$/input.txt" />
         <option value="$PROJECT_DIR$/sorting_of_words.py" />
+        <option value="$PROJECT_DIR$/input.txt" />
+        <option value="$PROJECT_DIR$/metal_chain.py" />
+        <option value="$PROJECT_DIR$/not_unique_heap.py" />
       </list>
     </option>
   </component>
@@ -134,7 +136,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sorting_of_words">
+  <component name="RunManager" selected="Python.metal_chain">
     <configuration name="metal_chain" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="assigment_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -239,8 +241,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sorting_of_words" />
         <item itemvalue="Python.metal_chain" />
+        <item itemvalue="Python.sorting_of_words" />
         <item itemvalue="Python.pin_code" />
         <item itemvalue="Python.not_unique_heap" />
         <item itemvalue="Python.tail_recursion" />
@@ -300,7 +302,14 @@
       <option name="project" value="LOCAL" />
       <updated>1523202406415</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="solve F">
+      <created>1523206721047</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1523206721047</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -312,9 +321,9 @@
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.329718" />
       <window_info anchor="bottom" id="Python Console" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.329718" />
       <window_info anchor="bottom" id="Terminal" order="4" weight="0.329718" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25235197" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25235197" />
       <window_info anchor="right" id="R Packages" order="5" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="1" />
@@ -371,25 +380,14 @@
     <MESSAGE value="solve D" />
     <MESSAGE value="solve C" />
     <MESSAGE value="solve B" />
-    <option name="LAST_COMMIT_MESSAGE" value="solve B" />
+    <MESSAGE value="solve F" />
+    <option name="LAST_COMMIT_MESSAGE" value="solve F" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/metal_chain.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/metal_chain.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -453,38 +451,41 @@
     <entry file="file://$PROJECT_DIR$/output.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/not_unique_heap.py">
+    <entry file="file://$PROJECT_DIR$/sorting_of_words.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="28" selection-start-line="27" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pin_code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/metal_chain.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="28" column="48" lean-forward="true" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+        <state relative-caret-position="72">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="27" selection-start-column="27" selection-end-column="27" />
+        <state relative-caret-position="18">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sorting_of_words.py">
+    <entry file="file://$PROJECT_DIR$/pin_code.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        <state relative-caret-position="522">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/metal_chain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+          <folding>
+            <marker date="1523237798575" expanded="true" signature="58:61" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/not_unique_heap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
         </state>
       </provider>
     </entry>
